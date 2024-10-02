@@ -10,6 +10,9 @@ public class App {
         // TODO: call your test case functions one after other here
         // START Tests
         tests.testCase01();
+        tests.testCase02();
+        tests.testCase03();
+        tests.testCase04();
 
         // END Tests
         tests.endTest(); // End your test by clearing connections and closing browser
